@@ -46,8 +46,3 @@
 
 ---
 
-## 🎯 Roadmap
-
-- [ ] 📰 Implement advanced filtering (by region, keyword)  
-- [ ] 🔍 Add search functionality  
-- [ ] 🎨 Add basic theme customization option  
